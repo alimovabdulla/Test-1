@@ -106,6 +106,29 @@ using System.Threading.Channels;
 
 //}
 #endregion
+#region int tipinde gebul edir nece regemli(basamagli) ildugunu gosterir.
+//Console.WriteLine("REgeminizi yazin:");
+//int sayi1 = Convert.ToInt32(Console.ReadLine());
+//int netice = Basamagsayi(sayi1);
+//Console.WriteLine(netice);
+
+//static int Basamagsayi(int sayi1)
+//{
+//    int sayi2 = 0;
+
+//    while (sayi1 != 0)
+//    {
+
+//        sayi1 /= 10;
+
+//        sayi2++;
+
+
+//    }
+
+//    return sayi2;
+//}
+#endregion
 
 /*1) Console.WriteLine metodunun return tipi voiddir.
  2) OOP nin 4 prinsipi var: Abstraction,Polimorphism, Encapsulation, Inheritance.
